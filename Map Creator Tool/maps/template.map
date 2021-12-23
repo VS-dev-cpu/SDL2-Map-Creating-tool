@@ -1,0 +1,7 @@
+texture 1 test_texture_a.png
+texture 2 test_texture_b.png
+texture 1 test_texture_c.png
+texture 0 test_texture_d.png
+
+object 0 0 0 0 10 20 1 0
+object 1 10 20 1 10 20 0 0

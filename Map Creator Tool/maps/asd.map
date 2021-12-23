@@ -1,0 +1,14 @@
+texture 0 res/gfx/cursor_a.png
+texture 1 res/gfx/cursor_b.png
+texture 2 res/gfx/button_save_a.png
+texture 3 res/gfx/button_save_b.png
+texture 4 res/gfx/button_open_a.png
+texture 5 res/gfx/button_open_b.png
+texture 6 res/gfx/button_load_a.png
+texture 7 res/gfx/button_load_b.png
+texture 8 res/gfx/alert.png
+texture 9 res/gfx/background.png
+
+object 8 801 545 0 269 174 0 0
+object 1 124 19 0 916 77 1 2
+object 0 128 150 0 919 486 1 2
